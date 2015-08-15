@@ -1,0 +1,12 @@
+
+.bandNameDiv {
+	position: absolute;
+	left: 7vh;
+	bottom: 7vh;
+	font-size: 5vw;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.4);
+	color: white;
+	padding: 0.8vw;
+	font-family: 'Open Sans', sans-serif;
+}
